@@ -1,0 +1,22 @@
+.hero {
+  max-width: 1080px;
+  margin: 0 auto;
+  min-height: 300px;
+  padding: 80px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.hero__title {
+  margin-top: auto;
+}
+
+.work {
+  max-width: 1080px;
+  margin: 0 auto;
+  padding: 80px 0;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
